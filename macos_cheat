@@ -1,0 +1,5 @@
+activate venv on mac:
+  source venv/bin/activate
+
+reset camera:
+  sudo killall VDCAssistant
