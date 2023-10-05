@@ -3,3 +3,9 @@ activate venv on mac:
 
 reset camera:
   sudo killall VDCAssistant
+
+brew:
+  brew install XXX # install XXX
+  brew info XXX  # info of XXX
+  brew update  # update self
+  brew update XXX # update XXX
