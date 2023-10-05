@@ -9,3 +9,4 @@ brew:
   brew info XXX  # info of XXX
   brew update  # update self
   brew update XXX # update XXX
+  brew -v install XXX # verbose install
