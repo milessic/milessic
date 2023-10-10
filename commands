@@ -1,0 +1,21 @@
+MACOS
+  activate venv on mac:
+    source venv/bin/activate
+  
+  reset camera:
+    sudo killall VDCAssistant
+  
+  brew:
+    brew install XXX # install XXX
+    brew info XXX  # info of XXX
+    brew update  # update self
+    brew update XXX # update XXX
+    brew -v install XXX # verbose install
+
+NUITKA
+  python -m nuitka --follow-imports --standalone program.py
+
+
+PYTEST
+  pytest file_name.py::test_name
+  -s - verbose
