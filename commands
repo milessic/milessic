@@ -1,4 +1,7 @@
 MACOS
+  kill localhost
+    lsof -t -i tcp:{port} | xargs kill -9
+
   activate venv on mac:
     source venv/bin/activate
   
