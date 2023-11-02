@@ -22,3 +22,6 @@ NUITKA
 PYTEST
   pytest file_name.py::test_name
   -s - verbose
+
+DJANGO
+  manage.py migrate --run-syncd
