@@ -15,15 +15,43 @@ LINUX
       nmcli device connect
 
 VIM
-  MOVING INSIDE WINDOWS:
+  NAVIGATIONS:
+    kjhl  -  like  -  wsad
+    Ctrl + g     -   show location in file
+    gg    -    move to the beggining of the file
+    G     -    move to the end of file
+    23G   -    go to line 23
+    0     -    move to the beggining of the line
     Ctrl + w     -   change active
+    Ctrl + w then v - split right
+    Ctrl + w then s - split down
     Ctrl + w + arrows
     Ctrl + h/j/k/l
+    v    -    visual selection
+    r    -    retrieve (place some other text inside)
+
+  SEARCH AND REPLACE
+    /     -    open search in forward direction
+    ?     -    open search in backwards direction
+        n / N - next, previous  
+    Ctrl + o/i  - go through searches/navigation o - previous, i - next
+    %      -    move through parentasis
+    REPLACE
+    :s/{old}/{new}  -  replace 'old' with 'new', only first match
+    :s/{old}/{new}/g  -  replace globally in the line
+    :{start_line},{end_line}s/{old}/{new}/g  -  change everything in the given period
+    :%s/{old}/{new}/g  -  replace in the whole file
+    IGNORE CASE
+    \c  -  ignore case flag for one search
+    :set ic  - change setting to ignore case
   REFERENCES
     K    -    go to reference
   EDITING:
     i    -    insert
-    A    -    Append
+    o    -    open (create new line below and insert)
+    O    -    open (create new line above and insert)
+    a    -    append to the end of the coursor
+    A    -    Append to the end of line
     d    -    delete (cut)
     p    -    paste
     dd   -    delete whole line
@@ -32,6 +60,7 @@ VIM
     x    -    delete character
     C-r  -    redo
     r    -    replace
+    R    -    replace like INS
     c    -    change
   MOTIONS:
     # counts can be used, e.g. 3w, 44e
@@ -41,7 +70,10 @@ VIM
     0    -    go to the begigning of the line
 
     # these can mix, e.g. :d3w, 4w, 2dd
-
+  COPY / PASTE
+    y    -  copy
+    p    -  paste
+    dd   -  cut
 
 
 MACOS
