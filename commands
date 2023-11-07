@@ -24,6 +24,25 @@ VIM
   EDITING:
     i    -    insert
     A    -    Append
+    d    -    delete (cut)
+    p    -    paste
+    dd   -    delete whole line
+    u    -    undo
+    U    -    undo to the original state
+    x    -    delete character
+    C-r  -    redo
+    r    -    replace
+    c    -    change
+  MOTIONS:
+    # counts can be used, e.g. 3w, 44e
+    w    -    end of word
+    e    -    next word
+    $    -    end of line
+    0    -    go to the begigning of the line
+
+    # these can mix, e.g. :d3w, 4w, 2dd
+
+
 
 MACOS
   kill localhost
