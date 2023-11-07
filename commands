@@ -1,3 +1,19 @@
+LINUX
+  PATH
+    temporary append to $PATH
+        export PATH="/Directory1:$PATH"
+    pernamently apped to $PATH
+        add command from temporary to .bashrc file
+
+  TAR.GZ
+    taz -xzf archive.tar.gz -C /location/
+
+  DELETE
+    rm -r {}
+  NMCLI - connect ot bt devices as routers
+      ncmli device
+      nmcli device connect
+
 MACOS
   kill localhost
     lsof -t -i tcp:{port} | xargs kill -9
