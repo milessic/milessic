@@ -14,6 +14,17 @@ LINUX
       ncmli device
       nmcli device connect
 
+VIM
+  MOVING INSIDE WINDOWS:
+    Ctrl + w     -   change active
+    Ctrl + w + arrows
+    Ctrl + h/j/k/l
+  REFERENCES
+    K    -    go to reference
+  EDITING:
+    i    -    insert
+    A    -    Append
+
 MACOS
   kill localhost
     lsof -t -i tcp:{port} | xargs kill -9
