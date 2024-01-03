@@ -1,3 +1,7 @@
+JAVA
+  Maven
+    mvn -version
+
 LINUX
   PATH
     temporary append to $PATH
