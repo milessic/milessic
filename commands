@@ -9,6 +9,12 @@ LINUX
     pernamently apped to $PATH
         add command from temporary to .bashrc file
 
+  NORD VPN
+    1. nordvpn login
+    2. zaloguj się, weź link z tokenem logowania i wrzuc go do:
+      nordvpn login --callback "{url}"
+    3. połącz sudo nordvpn connect {country} {city}
+
   TAR.GZ
     taz -xzf archive.tar.gz -C /location/
 
