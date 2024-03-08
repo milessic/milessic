@@ -3,6 +3,8 @@ JAVA
     mvn -version
 
 LINUX
+  SEARCH
+        grep -Rnw src/ -e "raise"  <-- Recursive serach for "raise" under "src" directory
   PATH
     temporary append to $PATH
         export PATH="/Directory1:$PATH"
