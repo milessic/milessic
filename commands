@@ -108,6 +108,8 @@ MACOS
 NUITKA
   python -m nuitka --follow-imports --standalone program.py
 
+PYTHON
+  gdown - download files from drive
 
 PYTEST
   pytest file_name.py::test_name
