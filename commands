@@ -27,6 +27,8 @@ LINUX
       nmcli device connect
 
 VIM
+  .vimrc
+    stored in $MYVIMRC
   NAVIGATIONS:
     kjhl  -  like  -  wsad
     Ctrl + g     -   show location in file
