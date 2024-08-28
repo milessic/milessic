@@ -2,7 +2,7 @@
 layout: post
 title:  "pyClocks released!!"
 date:   2024-08-28 10:20:00 +0200
-categories: release pyclocks python
+categories: release pyclocks python hot
 ---
 Hello all o/
 
@@ -18,6 +18,6 @@ Check it out and feel free to write me a feedback / report issues directly on py
 - [pyClocks GitHub][pyclocksgith]
 
 
-[pyclocks][https://milessic.github.io/pyClocks/]
-[pyclocksdown][https://milessic.github.io/pyClocks/downloads]
-[pyclocksgith][https://github.com/milessic/pyClocks]
+[pyclocks]: https://milessic.github.io/pyClocks/
+[pyclocksdown]: https://milessic.github.io/pyClocks/downloads
+[pyclocksgith]: https://github.com/milessic/pyClocks
