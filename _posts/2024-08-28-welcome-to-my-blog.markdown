@@ -11,4 +11,4 @@ I decided that I will start writing my software development blog.
 My favorite language is Python, but I also write in JavaScript, apart of that I'm a huge Linux fan.
 
 
-[pyclocks][https://milessic.github.io/pyClocks/]
+[pyclocks]: https://milessic.github.io/pyClocks/
