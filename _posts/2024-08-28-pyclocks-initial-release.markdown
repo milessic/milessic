@@ -6,7 +6,7 @@ categories: release pyclocks python hot
 ---
 Hello all o/
 
-Yesterday I have release `pyClocks v1.0` for Windows and Linux!
+Yesterday I have released `pyClocks v1.0` for Windows and Linux!
 
 What a feeling, to have application released.
 It's not yet in final form, but I decided to name version `v1.0`, as it is my first time relasing something on my own, and that's quite nice feeling.
