@@ -8,6 +8,6 @@ layout: home
 It's nice to see you on my blog.
 I will post my software updates here :)
 
-[Check out all my posts][/milessic/allposts]
+[Check out all my posts]:/milessic/allposts
 
 [allposts]: /posts
