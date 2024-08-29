@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "pyClocks 1.1 released!!"
+date:   2024-08-29 21:50:00 +0200
+categories: release pyclocks python hot
+---
+Hello all o/
+
+Today I have released `pyClocks v1.1` for Windows and Linux!
+
+After v1.1 release, which took my whole free time for 2 days, I feel it is finally an MVP product. I still have a lot to do, to be sure that pyClocks is ready product but I'm on the right tracks :)
+
+Check it out and feel free to write me a feedback / report issues directly on pyClcoks github
+
+- [pyClocks page][pyclocks]
+- [pyClocks downloads][pyclocksdown]
+- [pyClocks GitHub][pyclocksgith]
+
+
+PS, apart of that, I will create a page and release proecss for [pymail][pymailurl] ;) 
+
+[pyclocks]: https://milessic.github.io/pyClocks/
+[pyclocksdown]: https://milessic.github.io/pyClocks/downloads
+[pyclocksgith]: https://github.com/milessic/pyClocks
+[pymailurl]: https://github.com/milessic/py_mail
