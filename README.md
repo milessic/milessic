@@ -8,7 +8,7 @@
 ## My Projects
 ### Write.JS
 **Tags:** $${\color{yellow}JavaScript}$$ $${\color{Light blue}Python}$$ $${\color{lightgreen}FastAPI}$$ $${\color{blue}Web}$$ $${\color {Orange} Desktop}$$  $${\color{Light Blue}SQL}$$<br>
-**Website**: [Write.JS dev environment](https://writejs.bieda.it/)
+**Website**: [Write.JS dev environment](https://writejs.bieda.it/)<br>
 **GitHub:** 
 [Write.JS](https://github.com/milessic/write.js)<br>
 **Short description**<br>
