@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 - 🔭 I’m currently working on [Write.JS](https://writejs.bieda.it/)
 - 🌱 I like Python and Javascript
 - 👯 I’m looking to collaborate on python projects
 - 💬 Ask me about game development, qa, Python
 - ⚡ Fun fact: I have a very small cat
 
-### My Projects
-#### Write.JS
+## My Projects
+### Write.JS
 **Website**: [Write.JS dev environment](https://writejs.bieda.it/)
 **GitHub:** 
 [Write.JS](https://github.com/milessic/write.js)
