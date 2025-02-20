@@ -12,7 +12,7 @@
 [Write.JS](https://github.com/milessic/write.js)
 
 **Short description**<br>
-Crossplatform, FastApi + vanilla JS web text editor with remote saving of documents.
+Crossplatform, FastApi + vanilla JS web-based text editor with remote saving of documents.
 
 ---
 ### Playwright test repository
