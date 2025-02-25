@@ -37,6 +37,7 @@ Auth backend engine provided with:
 ### Invoice generator
 **Tags:** $${\color{yellow}JavaScript}$$ $${\color{Light blue}Python}$$ $${\color{lightgreen}Flask}$$ $${\color{blue}Web}$$<br>
 **GitHub:** [fv](https://github.com/milessic/fv)
+**Website:** [fv](https://fakturki.bieda.it)
 **Short description**<br>
 Vat invoice generator in polish language. written in JS + Flask
 
@@ -91,6 +92,11 @@ It's my demo of [Robot Framework](https://robotframework.org/) tests implementat
 **Short description**<br>
 Do you want to read Markdown file as fast as with ``cat``, but you need some colors? PyMDc is an answer for you needs!
 
+---
+### Parrot Pallete
+**Tags:** $${\color{yellow}JavaScript}$$ $${{\color{green}Games}}
+**Website**: [Parrot Pallete](https://https://paleta.bieda.it/)
+Simple 5-minutes game written with Canvas API
 <!--
 ---
 ### 
