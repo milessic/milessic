@@ -94,8 +94,9 @@ Do you want to read Markdown file as fast as with ``cat``, but you need some col
 
 ---
 ### Parrot Pallete
-**Tags:** $${\color{yellow}JavaScript}$$ $${{\color{green}Games}}
+**Tags:** $${\color{yellow}JavaScript}$$ $${\color{green}Games}$$<br>
 **Website**: [Parrot Pallete](https://https://paleta.bieda.it/)
+**Short description**<br>
 Simple 5-minutes game written with Canvas API
 <!--
 ---
