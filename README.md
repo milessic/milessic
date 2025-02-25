@@ -34,6 +34,13 @@ Auth backend engine provided with:
 - supports jwt and database authorizations
 
 ---
+### Invoice generator
+**Tags:** $${\color{yellow}JavaScript}$$ $${\color{Light blue}Python}$$ $${\color{lightgreen}Flask}$$ $${\color{blue}Web}$$<br>
+**GitHub:** [fv](https://github.com/milessic/fv)
+**Short description**<br>
+Vat invoice generator in polish language. written in JS + Flask
+
+---
 ### PyTestCases
 **Tags:** $${\color{green}PyQt}$$ $${\color{Light blue}Python}$$ $${\color {Orange} Desktop}$$ $${\color{Yellow}tests}$$ <br>
 **GitHub:** [pyTestCases](https://github.com/milessic/)
