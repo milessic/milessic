@@ -5,6 +5,9 @@
 - 💬 Ask me about game development, qa, Python
 - ⚡ Fun fact: I have a very small cat
 
+## My Portfolio page
+[milessic's portfolio](http://mjportfolio.bieda.it/)
+---
 ## My Projects
 ### Write.JS
 **Tags:** $${\color{yellow}JavaScript}$$ $${\color{Light blue}Python}$$ $${\color{lightgreen}FastAPI}$$ $${\color{blue}Web}$$ $${\color {Orange} Desktop}$$  $${\color{Light Blue}SQL}$$<br>
