@@ -6,7 +6,8 @@
 - ⚡ Fun fact: I have a very small cat
 
 ## My Portfolio page
-[milessic's portfolio](http://mjportfolio.bieda.it/)
+You can find all my apps with links to GitHub / these websites on [my portfolio page](http://mjportfolio.bieda.it/), which is also one of my projects :)
+<!--
 ---
 ## My Projects
 ### Write.JS
@@ -101,6 +102,7 @@ Do you want to read Markdown file as fast as with ``cat``, but you need some col
 **Website**: [Parrot Pallete](https://https://paleta.bieda.it/)
 **Short description**<br>
 Simple 5-minutes game written with Canvas API
+-->
 <!--
 ---
 ### 
