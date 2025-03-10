@@ -1,9 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on [Write.JS](https://writejs.bieda.it/)
+- 🔭 I’m currently working on [Write.JS](https://writejs.bieda.it/) and [Test Automation with Java](https://github.com/milessic/selenium-with-java)
+- 📚 Currently pursuing ISTQB certificates
 - 🌱 I like Python and Javascript
 - 👯 I’m looking to collaborate on python projects
 - 💬 Ask me about game development, qa, Python
-- ⚡ Fun fact: I have a very small cat
+
 
 ## My Portfolio page
 You can find all my apps with links to GitHub / these websites on [my portfolio page](http://mjportfolio.bieda.it/), which is also one of my projects :)
